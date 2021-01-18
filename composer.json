@@ -1,0 +1,10 @@
+{
+    "name": "alexkucheryuk/codeception-6089",
+    "authors": [
+        {
+            "name": "Alexander Kucheryuk",
+            "email": "3331946+alexkuc@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
